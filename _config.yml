@@ -1,9 +1,18 @@
-layout_spectrum: 0.7117820554412901
-typography_spectrum: 0.49147670250386
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.4060020470060408
-  lightness: 0.1457462515681982
   saturation: 0.744303728453815
+  brandStrength: 0.4060020470060408
   rhythmicContrast: 0.6467203346546739
   brandColors:
     - '#96CA2D'
@@ -11,4 +20,7 @@ color:
     - '#EDF7F2'
     - '#4BB5C1'
     - '#7FC6BC'
+  lightness: 0.1457462515681982
+typography_spectrum: 0.1154672
+layout_spectrum: 0.5214823
 name: beta CatzoLab
