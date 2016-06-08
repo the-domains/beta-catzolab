@@ -1,0 +1,14 @@
+layout_spectrum: 0.7117820554412901
+typography_spectrum: 0.49147670250386
+color:
+  brandStrength: 0.4060020470060408
+  lightness: 0.1457462515681982
+  saturation: 0.744303728453815
+  rhythmicContrast: 0.6467203346546739
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: beta CatzoLab
