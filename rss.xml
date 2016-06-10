@@ -4,7 +4,7 @@
         <description><![CDATA[beta CatzoLab]]></description>
         <link>https://thegrid.ai/beta-catzolab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 19:49:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2016 19:49:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/beta-catzolab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://www.microsoft.com/es-es/store/games/40-caida-y-limpia/9nblggh0hvls</link>
             <guid isPermaLink="false">da679684-fd3f-41c6-ae3e-0ebd8f40a8ba</guid>
             <pubDate>Fri, 10 Jun 2016 19:47:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[App Store®]]></title>
-            <description><![CDATA[<article><h1>App Store®</h1><p>You can play 40 on your iPhone, iPod or iPad.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/064e552ff1261038d0de00635a33e3b075a5bd96.png"></article>]]></description>
-            <link>https://itunes.apple.com/app/40/id935492399</link>
-            <guid isPermaLink="false">e3a9d7f9-8860-4231-885f-c8f4a5d7475f</guid>
-            <pubDate>Fri, 10 Jun 2016 19:43:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
