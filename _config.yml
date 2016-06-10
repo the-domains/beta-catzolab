@@ -15,16 +15,16 @@ collections:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/85404e2f-b7aa-4202-99cf-1b8b1b9578c3.png
 color:
-  saturation: 0.1487648
-  brandStrength: 0.4060020470060408
-  lightness: 1
+  saturation: 0.31376847671344876
+  brandStrength: 0.004281442146748304
+  lightness: 0.12338018673472106
   brandColors:
-    - '#206232'
-    - '#95693A'
-    - '#FEFEFE'
-    - '#D5A304'
-    - '#6B9D38'
-  rhythmicContrast: 0.1251342
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  rhythmicContrast: 0.24356604763306677
 typography_spectrum: 0.05639096
-layout_spectrum: 0.566595
+layout_spectrum: 0.3303878102451563
 name: beta CatzoLab
