@@ -1,16 +1,30 @@
-typography_spectrum: 0.49147670250386
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0cfb8ae-d0bb-4952-8d21-b827bf450c26.jpg
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/85404e2f-b7aa-4202-99cf-1b8b1b9578c3.png
 color:
+  saturation: 0.1487648
   brandStrength: 0.4060020470060408
-  lightness: 0.1457462515681982
-  saturation: 0.744303728453815
-  rhythmicContrast: 0.6467203346546739
+  lightness: 1
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-layout_spectrum: 0.7117820554412901
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/85404e2f-b7aa-4202-99cf-1b8b1b9578c3.png'
+    - '#206232'
+    - '#95693A'
+    - '#FEFEFE'
+    - '#D5A304'
+    - '#6B9D38'
+  rhythmicContrast: 0.1251342
+typography_spectrum: 0.05639096
+layout_spectrum: 0.566595
 name: beta CatzoLab
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0cfb8ae-d0bb-4952-8d21-b827bf450c26.jpg'
