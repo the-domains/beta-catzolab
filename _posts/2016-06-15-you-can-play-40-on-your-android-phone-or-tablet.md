@@ -1,12 +1,12 @@
 ---
 description: You can play 40 on your Android phone or tablet.
-dateModified: '2016-06-15T19:05:38.319Z'
-datePublished: '2016-06-15T19:05:45.878Z'
-title: ''
+dateModified: '2016-06-15T19:07:00.179Z'
+datePublished: '2016-06-15T19:08:50.711Z'
+title: Google Play®
 author: []
 isBasedOnUrl: 'https://play.google.com/store/apps/details?id=com.iglooJuan.ficto40'
-starred: false
 sourcePath: _posts/2016-06-15-you-can-play-40-on-your-android-phone-or-tablet.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
