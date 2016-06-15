@@ -1,3 +1,5 @@
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0cfb8ae-d0bb-4952-8d21-b827bf450c26.jpg
 collections:
   - index:
       path: /
@@ -24,7 +26,5 @@ color:
     - '#2980B9'
   rhythmicContrast: 0.5612245
 typography_spectrum: 0.05639096
-layout_spectrum: 0.8179377
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0cfb8ae-d0bb-4952-8d21-b827bf450c26.jpg
+layout_spectrum: 0
 name: beta CatzoLab
