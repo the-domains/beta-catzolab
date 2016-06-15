@@ -3,13 +3,13 @@ description: >-
   Welcome to CatzoLab! With our friends from Ficto Anizómero we made the cards
   game called 40 Caida y Limpia where you can play online or on your mobile
   devices and challenge your friends!
-dateModified: '2016-06-15T19:08:35.792Z'
-datePublished: '2016-06-15T19:08:49.050Z'
+dateModified: '2016-06-15T19:11:23.707Z'
+datePublished: '2016-06-15T19:11:24.204Z'
 title: ''
 author: []
 sourcePath: >-
   _posts/2016-06-10-welcome-to-catzolab-with-our-friends-from-ficto-anizomero-w.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
