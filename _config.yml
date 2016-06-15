@@ -1,30 +1,30 @@
-name: beta CatzoLab
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/85404e2f-b7aa-4202-99cf-1b8b1b9578c3.png
 color:
-  saturation: 0.3137685
+  saturation: 0.6643394
   brandStrength: 1
-  lightness: 0.7223416
+  lightness: 0.5182599
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-  rhythmicContrast: 0.2435661
+  rhythmicContrast: 0.5612245
 typography_spectrum: 0.05639096
-layout_spectrum: 1
+layout_spectrum: 0.8179377
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0cfb8ae-d0bb-4952-8d21-b827bf450c26.jpg
+name: beta CatzoLab
