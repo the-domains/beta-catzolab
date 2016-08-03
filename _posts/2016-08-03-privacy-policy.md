@@ -8,18 +8,17 @@ description: >-
   Please read our privacy policy carefully to get a clear understanding of how
   we collect, use, protect or otherwise handle your Personally Identifiable
   Information in accordance with our website.
-dateModified: '2016-08-03T19:24:58.214Z'
-datePublished: '2016-08-03T19:25:17.993Z'
+dateModified: '2016-08-03T19:25:29.138Z'
+datePublished: '2016-08-03T19:25:30.000Z'
 title: Privacy Policy
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-03-privacy-policy.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: privacy-policy/index.html
+_type: Blurb
 
 ---
 # Privacy Policy
