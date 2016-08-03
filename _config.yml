@@ -1,3 +1,23 @@
+typography_spectrum: 0.05639096
+color:
+  saturation: 0.6643394
+  brandStrength: 1
+  lightness: 0.5182599
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  rhythmicContrast: 0.5612245
+layout_spectrum: 0
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/85404e2f-b7aa-4202-99cf-1b8b1b9578c3.png
+name: beta CatzoLab
+navigation:
+  - name: Privacy Policy
+    id: 6f15e11e-faec-4c23-9d56-34152127aa83
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0cfb8ae-d0bb-4952-8d21-b827bf450c26.jpg
 collections:
@@ -12,19 +32,3 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/85404e2f-b7aa-4202-99cf-1b8b1b9578c3.png
-color:
-  saturation: 0.6643394
-  brandStrength: 1
-  lightness: 0.5182599
-  brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  rhythmicContrast: 0.5612245
-typography_spectrum: 0.05639096
-layout_spectrum: 0
-name: beta CatzoLab
